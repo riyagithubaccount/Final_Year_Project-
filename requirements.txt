@@ -1,0 +1,10 @@
+Libraries used :-
+
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
